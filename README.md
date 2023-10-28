@@ -2,4 +2,4 @@
 
 Namespace for personal project.
 
-Author: [Saga Ekakristi](https://sagaekakristi.com/).
+Author: [Saga Ekakristi](https://sagaekakristi.com/)
